@@ -1,4 +1,4 @@
-![image](https://github.com/jaya2312/Automated-Cheque-Processing/assets/141991573/4eca14bd-9e00-4976-af8e-0a6de9a2b9d1)# Automated-Cheque-Processing
+# Automated Cheque Processing
 <ul>
 <li>Bank handles large volumes of cheques in the clearing process. The process involves many  technical verifications including signature verification. Some of these steps are manual and require human intervention to complete the process. The current process requires the high human capital deployment and longer processing time.</li> 
 <li>To resolve above problem, we are creating Automated Cheque Processing feature in Mobile / Web Application with the help of deep learning techniques.</li>
